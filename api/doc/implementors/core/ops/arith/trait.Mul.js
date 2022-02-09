@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["pica"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.58.1/core/ops/arith/trait.Mul.html\" title=\"trait core::ops::arith::Mul\">Mul</a>&lt;<a class=\"struct\" href=\"pica/struct.Outcome.html\" title=\"struct pica::Outcome\">Outcome</a>&gt; for <a class=\"struct\" href=\"pica/struct.Outcome.html\" title=\"struct pica::Outcome\">Outcome</a>","synthetic":false,"types":["pica::select::Outcome"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
